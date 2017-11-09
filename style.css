@@ -1,5 +1,12 @@
 /* GENERAL */
 
+.skillbar-title span img
+{
+	height: 50%;
+	width:auto;
+	background-color: #fff;
+
+}
 html, body
 {
 	height: 100%;
